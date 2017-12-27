@@ -1,0 +1,14 @@
+{
+  "name": "exercise07",
+  "version": "1.0.0",
+  "description": "exercise07",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyal Schocken",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
